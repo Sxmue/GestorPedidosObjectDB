@@ -1,0 +1,9 @@
+
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8´îºÎ¼1
+u
+java:S1104"SMake myStage a static final constant or non-public and provide accessors if needed.(İ÷¤ƒùÿÿÿÿ8µîºÎ¼1
+O
+java:S1444"-Make this "public static myStage" field final(İ÷¤ƒùÿÿÿÿ8µîºÎ¼1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(¡àµ–şÿÿÿÿ8ñ¦¶õ¼1
+G	java:S106'"+Replace this use of System.out by a logger.(œ’á8ñîºÎ¼1

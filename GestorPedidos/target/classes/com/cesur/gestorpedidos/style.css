@@ -1,0 +1,86 @@
+.root{
+
+    -fx-background-color: #000022;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+
+
+}
+@font-face {
+    font-family: 'Monserrat';
+    src: url('font/Montserrat/Montserrat-VariableFont_wght.ttf');
+}
+.slogan{
+    -fx-font-weight: bold;
+}
+.btn{
+    -fx-background-color: linear-gradient(to bottom right,#fe5c1e,#FFD700);
+    -fx-border-color:black;
+    -fx-border-style: solid;
+}
+
+.btn:hover{
+    -fx-background-color: #E87423;
+}
+
+.table-view .column-header{
+    -fx-background-color: linear-gradient(to bottom,#fe5c1e,#FFD700);
+    -fx-font-size: 15px;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-font-family: Monserrat;
+    -fx-padding: 20;
+
+}
+
+.table-view{
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-collapse: collapse;
+
+}
+.table-view .corner {
+    -fx-background-color: transparent;
+}
+.table-view .table-cell{
+    -fx-padding: 10;
+}
+.table-row-cell:hover{
+    -fx-background-color: #ffa60c;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+.combo-box .arrow-button {
+    -fx-background-color: #ffa60c; /* Cambia el color del botón desplegable a verde */
+}
+
+.combo-box .arrow-button .arrow {
+    -fx-background-color: black; /* Cambia el color del icono de la flecha a verde */
+}
+.combo-box .text {
+    -fx-font-weight: bold; /* Cambia el color del texto en el ComboBox a verde */
+}
+
+
+#spinner .increment-arrow-button {
+    -fx-background-color: #ffa60c;
+}
+
+#spinner .decrement-arrow-button {
+    -fx-background-color: #ffa60c;
+}
+
+#spinner .increment-arrow-button .increment-arrow {
+    -fx-background-color: black;
+}
+
+#spinner .decrement-arrow-button .decrement-arrow {
+    -fx-background-color: black;
+}
+#spinner{
+    -fx-font-weight: bold;
+}
+

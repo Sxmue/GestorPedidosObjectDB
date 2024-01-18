@@ -1,0 +1,20 @@
+Smartphone Samsung Galaxy S22,799.99,15
+Laptop Dell XPS 15 ,1499.99,10
+PlayStation 5 Pro,599.99,8
+Apple iPad Pro,899.00,12
+Smartwatch Apple Watch Series 7,399.50,20
+Wireless Earbuds Sony WF-1000XM4,249.99,30
+Gaming Mouse Logitech G Pro X,89.99,50
+4K Ultra HD TV LG OLED CX,1299.99,18
+Nintendo Switch OLED Model,349.00,25
+Smart Home Speaker Amazon Echo,99.95,40
+Bluetooth Keyboard Logitech K811,79.99,35
+Portable External SSD Samsung T7,199.99,22
+Wireless Router ASUS RT-AX86U,179.95,28
+Nvidia GeForce RTX 3080,699.99,15
+Smart Thermostat Google Nest,249.00,20
+Bluetooth Soundbar Sony HT-X9000F,399.99,12
+DJI Mavic Air 2 Drone,799.00,7
+Fitness Tracker Fitbit Charge 5,149.95,30
+GoPro Hero 10 Black,499.99,9
+Desktop Gaming PC Alienware Aurora,1999.99,5
